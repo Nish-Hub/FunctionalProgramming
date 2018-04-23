@@ -28,7 +28,8 @@ public void useAnonymous()
 public void useLambda()
 {
 	Utility util=() -> {
-		System.out.println(this);
+		System.out.println(this); // This "this" reference points to "this" outside this lambda expression which is the instance
+		//invoking the method wrapping up the lambda expression
 	};
 	printLambda(util);
 	
