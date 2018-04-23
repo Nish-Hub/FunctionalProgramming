@@ -1,7 +1,7 @@
 /*
  * The key point of not controlling the iterator order is the runtime now controls the order and it is not sequential anymore i.e parallel threads can be run for this 
- * Hence , jdk8's iterator foreach does this task of iterating over the collection in its own way and we get expected output in less execution time 
- * 
+ * Hence , jdk8's iterator foreach does this task of iterating over the collection in its own way and we get expected output
+ * I tried some test cases but was not able to find some scenario where time taken is less. I will update here if i find some scenario 
  */
 
 import java.util.Arrays;
