@@ -4,10 +4,10 @@ Java 8 introduces an exciting new addition to the language - lambdas. This repos
 
 This repository has code which covers:
 
-Understanding Java 8 lambdas and how to use them
-Comparing lambdas with anonymous inner classes
-Using lambdas with functional interfaces
-Understanding and using method references
-Working with collections and streams using lambdas
+>> <br>Understanding Java 8 lambdas and how to use them
+>> <br>Comparing lambdas with anonymous inner classes
+>> <br>Using lambdas with functional interfaces
+>> <br>Understanding and using method references
+>> <br>Working with collections and streams using lambdas
 
 Course referred : https://javabrains.thinkific.com/courses/java-8-lambda-basics
