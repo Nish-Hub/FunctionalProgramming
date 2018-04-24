@@ -1,0 +1,1 @@
+To find the average of all active students using stream
